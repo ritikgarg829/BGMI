@@ -19,6 +19,6 @@ EOL
 
 git add .devcontainer/devcontainer.json
 git commit -m "Add postStartCommand to run Python script automatically"
-git push origin main
+git push origin master
 
 
